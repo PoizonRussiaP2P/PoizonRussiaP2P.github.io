@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bdf8b43.css",
+    "main.js": "/static/js/main.33a111ac.js",
+    "static/media/bg-card.png": "/static/media/bg-card.bffedc349487d3bc2557.png",
+    "static/media/tinkoff.svg": "/static/media/tinkoff.fc925b2829e612e327ff589d61e2243d.svg",
+    "static/media/ralf.svg": "/static/media/ralf.f8cdc476092446e706e2dd5413dbd2f4.svg",
+    "static/media/success.svg": "/static/media/success.0d46c89892b3a26496bfec17c7b89a28.svg",
+    "index.html": "/index.html",
+    "static/media/error.svg": "/static/media/error.3cec9f9f788e31ddaa8a1ce3ecc64dff.svg",
+    "static/media/card.svg": "/static/media/card.cae2a52c56633da78a6660cd1c958fd1.svg",
+    "static/media/copy.svg": "/static/media/copy.e311c2cefaecc6e259f1a9e001b58da7.svg",
+    "static/media/exchange.svg": "/static/media/exchange.11ab1bda61debe296827f45c0c9cc818.svg",
+    "static/media/exit.svg": "/static/media/exit.0e478dda1c04fce7f5ba9fd90fd02c09.svg",
+    "static/media/ok.svg": "/static/media/ok.5774258ffc84689713a2a2bf7a9a70f5.svg",
+    "main.5bdf8b43.css.map": "/static/css/main.5bdf8b43.css.map",
+    "main.33a111ac.js.map": "/static/js/main.33a111ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdf8b43.css",
+    "static/js/main.33a111ac.js"
+  ]
+}
